@@ -1,16 +1,1 @@
-# uas
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi Game News Hub adalah platform berita game yang memungkinkan pengguna untuk mendapatkan informasi terkini tentang game PC dengan mengakses data dari API The Lazy Media API (https://the-lazy-media-api.vercel.app/api/games/pc?page=2). Aplikasi ini dilengkapi dengan fitur login menggunakan Firebase Authentication, yang memungkinkan pengguna untuk membuat akun, melihat berita tranding, dan melihat rating game. Dengan antarmuka pengguna yang responsif dan menarik, Game News Hub menyediakan pengalaman yang mudah dan menyenangkan bagi penggemar game untuk tetap terhubung dengan dunia game.
